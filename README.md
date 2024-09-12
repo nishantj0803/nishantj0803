@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning B.Tech 
 - 📫 How to reach me nishantj0803@gmail.com
-- 😄 Pronouns: He/Him
+  
 
 
 <!---
