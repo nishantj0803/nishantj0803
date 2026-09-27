@@ -1,5 +1,14 @@
-# 💫 About Me:
-Software Engineer and Co-Founder & CTO at CloudFinOps, building at the intersection of **cloud infrastructure, AI, and enterprise software**.<br><br>I enjoy designing and building systems end-to-end, from backend architecture and APIs to cloud infrastructure, data pipelines, and AI-powered features. At CloudFinOps, I’m building a multi-cloud FinOps and governance platform across **AWS, Azure, and GCP**, with a focus on cloud cost intelligence, governance, optimization, and AI-assisted analysis.<br><br>Previously, I worked on production AI systems for real-time sports video processing, combining **computer vision, audio analysis, and cloud infrastructure**.<br><br>My core interests are **distributed systems, backend engineering, cloud computing, AI/ML, system design, and algorithms**. I’ve solved **1000+ DSA problems in C++** and enjoy turning complex ideas into practical, scalable software.<br><br>Always building, learning, and exploring better ways to solve hard engineering problems.<br>
+# About Me
+
+Software Engineer (Backend / Full-Stack) and Founding Engineer at CloudFinOps, working across Python/FastAPI, React/Next.js/TypeScript, and MongoDB.
+
+I build systems end-to-end: backend services and REST APIs, cloud integrations across AWS, Azure, and GCP, data pipelines, and the frontend on top. At CloudFinOps that means cost-intelligence and governance workflows, least-privilege IAM access, async queue-based workloads, and debugging live systems on a 3-person team.
+
+Previously a backend intern on a real-time sports video pipeline serving 10,000+ users at sub-second latency, working with Python, C++, AWS, RabbitMQ, and YOLO-based detection.
+
+Core interests: backend engineering, distributed systems, cloud computing, system design, and algorithms. 1000+ DSA problems solved in C++.
+
+Currently looking for backend / full-stack roles (India / remote).
 
 
 ## 🌐 Socials:
