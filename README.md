@@ -8,8 +8,6 @@ Previously a backend intern on a real-time sports video pipeline serving 10,000+
 
 Core interests: backend engineering, distributed systems, cloud computing, system design, and algorithms. 1000+ DSA problems solved in C++.
 
-Currently looking for backend / full-stack roles (India / remote).
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/this.is.nishantjain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-jain-7baa07284) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nishant_infra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nishantj0803@gmail.com) 
